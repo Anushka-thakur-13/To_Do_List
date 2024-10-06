@@ -1,1 +1,1 @@
-#To Do List app using HTML,CSS and Javascript
+To Do List app using HTML,CSS and Javascript
