@@ -15,5 +15,4 @@ Real-time task updates
 Tech Stack:
 HTML5 for structure
 CSS3 for styling and layout
-Vanilla JavaScript (ES6+) for interactivity and logic
-Local Storage API for data persistence
+
