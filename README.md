@@ -5,14 +5,20 @@ A simple, intuitive To-Do List web application built using HTML, CSS, and JavaSc
 
 Features:
 Add new tasks with ease
+
 Mark tasks as completed or pending
+
 Delete tasks from the list
+
 Tasks persist in local storage for future sessions
+
 Responsive design for mobile and desktop
+
 Real-time task updates
 
 
 Tech Stack:
 HTML5 for structure
+
 CSS3 for styling and layout
 
